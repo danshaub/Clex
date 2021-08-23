@@ -39,7 +39,6 @@ adj_itr('anti-Semitic', 'anti-Semitic').
 adj_itr('anti-aircraft', 'anti-aircraft').
 adj_itr('anti-personnel', 'anti-personnel').
 adj_itr('apres-ski', 'apres-ski').
-adj_itr('après-ski', 'après-ski').
 adj_itr('art-nouveau', 'art-nouveau').
 adj_itr('arty-crafty', 'arty-crafty').
 adj_itr('au-fait', 'au-fait').
@@ -1429,7 +1428,6 @@ adj_itr(blank, blank).
 adj_itr(blase, blase).
 adj_itr(blasphemous, blasphemous).
 adj_itr(blasted, blasted).
-adj_itr('blasé', 'blasé').
 adj_itr(blatant, blatant).
 adj_itr(blazing, blazing).
 adj_itr(bleak, bleak).
@@ -2502,8 +2500,6 @@ adj_itr(dwarfish, dwarfish).
 adj_itr(dynastic, dynastic).
 adj_itr(dyslexic, dyslexic).
 adj_itr(dyspeptic, dyspeptic).
-adj_itr('décolleté', 'décolleté').
-adj_itr('démodé', 'démodé').
 adj_itr(eager, eager).
 adj_itr(early, early).
 adj_itr(earnest, earnest).
@@ -3142,7 +3138,6 @@ adj_itr(gingerly, gingerly).
 adj_itr(girlish, girlish).
 adj_itr(glace, glace).
 adj_itr(glacial, glacial).
-adj_itr('glacé', 'glacé').
 adj_itr(glad, glad).
 adj_itr(gladiatorial, gladiatorial).
 adj_itr(gladsome, gladsome).
@@ -4643,7 +4638,6 @@ adj_itr(nauseous, nauseous).
 adj_itr(nautical, nautical).
 adj_itr(naval, naval).
 adj_itr(navigable, navigable).
-adj_itr('naïve', 'naïve').
 adj_itr(nearby, nearby).
 adj_itr(neat, neat).
 adj_itr(nebular, nebular).
@@ -4798,7 +4792,6 @@ adj_itr(nutritive, nutritive).
 adj_itr(nuts, nuts).
 adj_itr(nutty, nutty).
 adj_itr(nymphomaniac, nymphomaniac).
-adj_itr('née', 'née').
 adj_itr(oafish, oafish).
 adj_itr(oaken, oaken).
 adj_itr(obdurate, obdurate).
@@ -4961,7 +4954,6 @@ adj_itr(outrageous, outrageous).
 adj_itr(outre, outre).
 adj_itr(outrigged, outrigged).
 adj_itr(outright, outright).
-adj_itr('outré', 'outré').
 adj_itr(outsize, outsize).
 adj_itr(outspoken, outspoken).
 adj_itr(outspread, outspread).
@@ -5110,8 +5102,6 @@ adj_itr(passing, passing).
 adj_itr(passionate, passionate).
 adj_itr(passionless, passionless).
 adj_itr(passive, passive).
-adj_itr('passé', 'passé').
-adj_itr('passée', 'passée').
 adj_itr(pastoral, pastoral).
 adj_itr(pasty, pasty).
 adj_itr(patchy, patchy).
@@ -5749,7 +5739,6 @@ adj_itr(receptive, receptive).
 adj_itr(recessional, recessional).
 adj_itr(recessive, recessive).
 adj_itr(recherche, recherche).
-adj_itr('recherché', 'recherché').
 adj_itr(reciprocal, reciprocal).
 adj_itr(reckless, reckless).
 adj_itr(recognizable, recognizable).
@@ -5904,7 +5893,6 @@ adj_itr(retrograde, retrograde).
 adj_itr(retrogressive, retrogressive).
 adj_itr(retrospective, retrospective).
 adj_itr(retrousse, retrousse).
-adj_itr('retroussé', 'retroussé').
 adj_itr(returnable, returnable).
 adj_itr(revengeful, revengeful).
 adj_itr(reverberant, reverberant).
@@ -5945,7 +5933,6 @@ adj_itr(ripe, ripe).
 adj_itr(risible, risible).
 adj_itr(risky, risky).
 adj_itr(risque, risque).
-adj_itr('risqué', 'risqué').
 adj_itr(ritual, ritual).
 adj_itr(ritualistic, ritualistic).
 adj_itr(ritzy, ritzy).
@@ -6064,7 +6051,6 @@ adj_itr(satyric, satyric).
 adj_itr(saucy, saucy).
 adj_itr(saurian, saurian).
 adj_itr(saute, saute).
-adj_itr('sauté', 'sauté').
 adj_itr(savage, savage).
 adj_itr(saving, saving).
 adj_itr(savoury, savoury).
@@ -6387,7 +6373,6 @@ adj_itr(softish, softish).
 adj_itr(soggy, soggy).
 adj_itr(soigne, soigne).
 adj_itr(soignee, soignee).
-adj_itr('soigné', 'soigné').
 adj_itr(solar, solar).
 adj_itr(sole, sole).
 adj_itr(soled, soled).
@@ -10750,7 +10735,6 @@ adj_tr('narrow-minded-about', 'narrow-minded-about', about).
 adj_tr('nasty-to', 'nasty-to', to).
 adj_tr('native-to', 'native-to', to).
 adj_tr('nauseous-from', 'nauseous-from', from).
-adj_tr('naïve-about', 'naïve-about', about).
 adj_tr('necessary-for', 'necessary-for', for).
 adj_tr('necessary-to', 'necessary-to', to).
 adj_tr('needful-of', 'needful-of', of).
@@ -11859,7 +11843,6 @@ adv('au-fond', 'au-fond').
 adv('breast-deep', 'breast-deep').
 adv('breast-high', 'breast-high').
 adv('cap-a-pie', 'cap-a-pie').
-adv('cap-à-pie', 'cap-à-pie').
 adv('chock-a-block', 'chock-a-block').
 adv('chop-chop', 'chop-chop').
 adv('cock-a-hoop', 'cock-a-hoop').
@@ -11947,14 +11930,11 @@ adv('up-to', 'up-to').
 adv('upside-down', 'upside-down').
 adv('vice-versa', 'vice-versa').
 adv('vis-a-vis', 'vis-a-vis').
-adv('vis-à-vis', 'vis-à-vis').
 adv('waist-deep', 'waist-deep').
 adv('waist-high', 'waist-high').
 adv('well-nigh', 'well-nigh').
 adv('willy-nilly', 'willy-nilly').
 adv('wrong-headedly', 'wrong-headedly').
-adv('à-la-carte', 'à-la-carte').
-adv('à-la-mode', 'à-la-mode').
 adv(aback, aback).
 adv(abaft, abaft).
 adv(abeam, abeam).
@@ -15421,7 +15401,6 @@ iv_finsg(appears, appear).
 iv_finsg(applauds, applaud).
 iv_finsg(applies, apply).
 iv_finsg(appliques, applique).
-iv_finsg('appliqués', 'appliqué').
 iv_finsg(appreciates, appreciate).
 iv_finsg(approaches, approach).
 iv_finsg(approves, approve).
@@ -18656,7 +18635,6 @@ iv_infpl(appeal, appeal).
 iv_infpl(appear, appear).
 iv_infpl(applaud, applaud).
 iv_infpl(applique, applique).
-iv_infpl('appliqué', 'appliqué').
 iv_infpl(apply, apply).
 iv_infpl(appreciate, appreciate).
 iv_infpl(approach, approach).
@@ -20947,9 +20925,7 @@ mn_pl(kg, kg).
 mn_pl(t, t).
 mn_pl(l, l).
 mn_pl('L', l).
-mn_pl('\u00b0', '\u00b0').
 mn_pl('K', 'K').
-mn_pl('\u00b0C', '\u00b0C').
 mn_pl('A', 'A').
 mn_pl(mol, mol).
 mn_pl(cd, cd).
@@ -20968,9 +20944,7 @@ mn_sg(kg, kg).
 mn_sg(t, t).
 mn_sg(l, l).
 mn_sg('L', l).
-mn_sg('\u00b0', '\u00b0').
 mn_sg('K', 'K').
-mn_sg('\u00b0C', '\u00b0C').
 mn_sg('A', 'A').
 mn_sg(mol, mol).
 mn_sg(cd, cd).
@@ -21077,7 +21051,6 @@ noun_mass('cross-fertilization', 'cross-fertilization', neutr).
 noun_mass('cross-stitch', 'cross-stitch', neutr).
 noun_mass('crown-land', 'crown-land', neutr).
 noun_mass('crystal-gazing', 'crystal-gazing', neutr).
-noun_mass('crème-de-menthe', 'crème-de-menthe', neutr).
 noun_mass('cupboard-love', 'cupboard-love', neutr).
 noun_mass('cupro-nickel', 'cupro-nickel', neutr).
 noun_mass('curry-powder', 'curry-powder', neutr).
@@ -21235,7 +21208,6 @@ noun_mass('mince-pie', 'mince-pie', neutr).
 noun_mass('mine-disposal', 'mine-disposal', neutr).
 noun_mass('mischief-making', 'mischief-making', neutr).
 noun_mass('mise-en-scene', 'mise-en-scene', neutr).
-noun_mass('mise-en-scène', 'mise-en-scène', neutr).
 noun_mass('mother-of-pearl', 'mother-of-pearl', neutr).
 noun_mass('multum-in-parvo', 'multum-in-parvo', neutr).
 noun_mass('mumbo-jumbo', 'mumbo-jumbo', neutr).
@@ -21266,7 +21238,6 @@ noun_mass('palm-oil', 'palm-oil', neutr).
 noun_mass('pampas-grass', 'pampas-grass', neutr).
 noun_mass('panty-hose', 'panty-hose', neutr).
 noun_mass('papier-mache', 'papier-mache', neutr).
-noun_mass('papier-mâché', 'papier-mâché', neutr).
 noun_mass('pari-mutuel', 'pari-mutuel', neutr).
 noun_mass('part-singing', 'part-singing', neutr).
 noun_mass('pate-de-foie-gras', 'pate-de-foie-gras', neutr).
@@ -21308,7 +21279,6 @@ noun_mass('prison-breaking', 'prison-breaking', neutr).
 noun_mass('prize-money', 'prize-money', neutr).
 noun_mass('profit-sharing', 'profit-sharing', neutr).
 noun_mass('pumice-stone', 'pumice-stone', neutr).
-noun_mass('pâté-de-foie-gras', 'pâté-de-foie-gras', neutr).
 noun_mass('quarter-day', 'quarter-day', neutr).
 noun_mass('quid-pro-quo', 'quid-pro-quo', neutr).
 noun_mass('rack-rent', 'rack-rent', neutr).
@@ -21841,7 +21811,6 @@ noun_mass(applejack, applejack, neutr).
 noun_mass(applicability, applicability, neutr).
 noun_mass(application, application, neutr).
 noun_mass(applique, applique, neutr).
-noun_mass('appliqué', 'appliqué', neutr).
 noun_mass(appointment, appointment, neutr).
 noun_mass(apportionment, apportionment, neutr).
 noun_mass(apposition, apposition, neutr).
@@ -22635,7 +22604,6 @@ noun_mass(climatology, climatology, neutr).
 noun_mass(clinker, clinker, neutr).
 noun_mass(clobber, clobber, neutr).
 noun_mass(cloisonne, cloisonne, neutr).
-noun_mass('cloisonné', 'cloisonné', neutr).
 noun_mass(closeness, closeness, neutr).
 noun_mass(closing, closing, neutr).
 noun_mass(closure, closure, neutr).
@@ -22858,7 +22826,6 @@ noun_mass(consistency, consistency, neutr).
 noun_mass(consolation, consolation, neutr).
 noun_mass(consolidation, consolidation, neutr).
 noun_mass(consomme, consomme, neutr).
-noun_mass('consommé', 'consommé', neutr).
 noun_mass(consonance, consonance, neutr).
 noun_mass(conspicuousness, conspicuousness, neutr).
 noun_mass(conspiracy, conspiracy, neutr).
@@ -23059,7 +23026,6 @@ noun_mass(cruelty, cruelty, neutr).
 noun_mass(crystal, crystal, neutr).
 noun_mass(crystallization, crystallization, neutr).
 noun_mass(crystallography, crystallography, neutr).
-noun_mass('crêpe', 'crêpe', neutr).
 noun_mass(cubism, cubism, neutr).
 noun_mass(cucumber, cucumber, neutr).
 noun_mass(cud, cud, neutr).
@@ -23073,8 +23039,6 @@ noun_mass(cupping, cupping, neutr).
 noun_mass(curability, curability, neutr).
 noun_mass(curacao, curacao, neutr).
 noun_mass(curacoa, curacoa, neutr).
-noun_mass('curaçao', 'curaçao', neutr).
-noun_mass('curaçoa', 'curaçoa', neutr).
 noun_mass(curd, curd, neutr).
 noun_mass(curiosity, curiosity, neutr).
 noun_mass(curling, curling, neutr).
@@ -23285,7 +23249,6 @@ noun_mass(desecration, desecration, neutr).
 noun_mass(desegregation, desegregation, neutr).
 noun_mass(desensitization, desensitization, neutr).
 noun_mass(desertion, desertion, neutr).
-noun_mass('deshabillé', 'deshabillé', neutr).
 noun_mass(design, design, neutr).
 noun_mass(designation, designation, neutr).
 noun_mass(designing, designing, neutr).
@@ -23629,10 +23592,6 @@ noun_mass(dysentery, dysentery, neutr).
 noun_mass(dyslexia, dyslexia, neutr).
 noun_mass(dyspepsia, dyspepsia, neutr).
 noun_mass(dystrophy, dystrophy, neutr).
-noun_mass('débris', 'débris', neutr).
-noun_mass('décor', 'décor', neutr).
-noun_mass('déshabillé', 'déshabillé', neutr).
-noun_mass('détente', 'détente', neutr).
 noun_mass(eagerness, eagerness, neutr).
 noun_mass(earnestness, earnestness, neutr).
 noun_mass(earth, earth, neutr).
@@ -25329,7 +25288,6 @@ noun_mass(kumis, kumis, neutr).
 noun_mass(kummel, kummel, neutr).
 noun_mass(kvass, kvass, neutr).
 noun_mass(kwela, kwela, neutr).
-noun_mass('kümmel', 'kümmel', neutr).
 noun_mass(la, la, neutr).
 noun_mass(labor, labor, neutr).
 noun_mass(labour, labour, neutr).
@@ -25348,7 +25306,6 @@ noun_mass(lambskin, lambskin, neutr).
 noun_mass(lameness, lameness, neutr).
 noun_mass(lamentation, lamentation, neutr).
 noun_mass(lamplight, lamplight, neutr).
-noun_mass('lamé', 'lamé', neutr).
 noun_mass(land, land, neutr).
 noun_mass(landfill, landfill, neutr).
 noun_mass(landing, landing, neutr).
@@ -25689,7 +25646,6 @@ noun_mass(matter, matter, neutr).
 noun_mass(matting, matting, neutr).
 noun_mass(maturation, maturation, neutr).
 noun_mass(maturity, maturity, neutr).
-noun_mass('maté', 'maté', neutr).
 noun_mass(mauve, mauve, neutr).
 noun_mass(mawkishness, mawkishness, neutr).
 noun_mass(maximization, maximization, neutr).
@@ -26000,7 +25956,6 @@ noun_mass(nacre, nacre, neutr).
 noun_mass(nainsook, nainsook, neutr).
 noun_mass(naivete, naivete, neutr).
 noun_mass(naivety, naivety, neutr).
-noun_mass('naiveté', 'naiveté', neutr).
 noun_mass(nakedness, nakedness, neutr).
 noun_mass(nankeen, nankeen, neutr).
 noun_mass(nap, nap, neutr).
@@ -26596,7 +26551,6 @@ noun_mass(pie, pie, neutr).
 noun_mass(piecework, piecework, neutr).
 noun_mass(pieta, pieta, neutr).
 noun_mass(piety, piety, neutr).
-noun_mass('pietà', 'pietà', neutr).
 noun_mass(piffle, piffle, neutr).
 noun_mass(pigeon, pigeon, neutr).
 noun_mass(piggery, piggery, neutr).
@@ -27015,7 +26969,6 @@ noun_mass(pursuit, pursuit, neutr).
 noun_mass(purulence, purulence, neutr).
 noun_mass(purveyance, purveyance, neutr).
 noun_mass(purview, purview, neutr).
-noun_mass('purée', 'purée', neutr).
 noun_mass(pus, pus, neutr).
 noun_mass(pusillanimity, pusillanimity, neutr).
 noun_mass(putrefaction, putrefaction, neutr).
@@ -27026,7 +26979,6 @@ noun_mass(puzzlement, puzzlement, neutr).
 noun_mass(pyorrhea, pyorrhea, neutr).
 noun_mass(pyorrhoea, pyorrhoea, neutr).
 noun_mass(pyrites, pyrites, neutr).
-noun_mass('pâté', 'pâté', neutr).
 noun_mass(quackery, quackery, neutr).
 noun_mass(quadrophony, quadrophony, neutr).
 noun_mass(quaintness, quaintness, neutr).
@@ -27486,7 +27438,6 @@ noun_mass(rustiness, rustiness, neutr).
 noun_mass(rustling, rustling, neutr).
 noun_mass(ruthlessness, ruthlessness, neutr).
 noun_mass(rye, rye, neutr).
-noun_mass('réchauffé', 'réchauffé', neutr).
 noun_mass(sable, sable, neutr).
 noun_mass(sabotage, sabotage, neutr).
 noun_mass(saccharin, saccharin, neutr).
@@ -27511,7 +27462,6 @@ noun_mass(sailcloth, sailcloth, neutr).
 noun_mass(sailing, sailing, neutr).
 noun_mass(sainthood, sainthood, neutr).
 noun_mass(saintliness, saintliness, neutr).
-noun_mass('saké', 'saké', neutr).
 noun_mass(salaciousness, salaciousness, neutr).
 noun_mass(salacity, salacity, neutr).
 noun_mass(salad, salad, neutr).
@@ -29140,7 +29090,6 @@ noun_pl('age-bracket', 'age-bracket', neutr).
 noun_pl('age-groups', 'age-group', neutr).
 noun_pl('agents-provocateurs', 'agent-provocateur', human).
 noun_pl('aide-memoires', 'aide-memoire', neutr).
-noun_pl('aide-mémoires', 'aide-mémoire', neutr).
 noun_pl('aides-de-camp', 'aide-de-camp', human).
 noun_pl('air-bladders', 'air-bladder', neutr).
 noun_pl('air-pumps', 'air-pump', neutr).
@@ -29168,7 +29117,6 @@ noun_pl('armour-plates', 'armour-plate', neutr).
 noun_pl('arms-races', 'arms-race', neutr).
 noun_pl('arms-runners', 'arms-runner', human).
 noun_pl('arriere-pensees', 'arriere-pensee', neutr).
-noun_pl('arrière-pensées', 'arrière-pensée', neutr).
 noun_pl('art-nouveau', 'art-nouveau', neutr).
 noun_pl('ash-bins', 'ash-bin', neutr).
 noun_pl('ash-cans', 'ash-can', neutr).
@@ -29333,7 +29281,6 @@ noun_pl('bust-ups', 'bust-up', neutr).
 noun_pl('by-elections', 'by-election', neutr).
 noun_pl('bye-byes', 'bye-bye', neutr).
 noun_pl('bye-laws', 'bye-law', neutr).
-noun_pl('bêtes-noires', 'bête-noire', neutr).
 noun_pl('cab-ranks', 'cab-rank', neutr).
 noun_pl('cabinet-makers', 'cabinet-maker', human).
 noun_pl('cable-car', 'cable-car', neutr).
@@ -30124,7 +30071,6 @@ noun_pl('minute-guns', 'minute-gun', neutr).
 noun_pl('minute-hands', 'minute-hand', neutr).
 noun_pl('mischief-makers', 'mischief-maker', human).
 noun_pl('mise-en-scenes', 'mise-en-scene', neutr).
-noun_pl('mises-en-scène', 'mise-en-scène', neutr).
 noun_pl('mitre-joints', 'mitre-joint', neutr).
 noun_pl('mix-ups', 'mix-up', neutr).
 noun_pl('mizzen-masts', 'mizzen-mast', neutr).
@@ -30246,7 +30192,6 @@ noun_pl('paddy-fields', 'paddy-field', neutr).
 noun_pl('palette-knives', 'palette-knife', neutr).
 noun_pl('paper-chases', 'paper-chase', neutr).
 noun_pl('papier-maches', 'papier-mache', neutr).
-noun_pl('papier-mâchés', 'papier-mâché', neutr).
 noun_pl('parade-grounds', 'parade-ground', neutr).
 noun_pl('pari-mutuels', 'pari-mutuel', neutr).
 noun_pl('pariah-dogs', 'pariah-dog', neutr).
@@ -30299,7 +30244,6 @@ noun_pl('picture-cards', 'picture-card', neutr).
 noun_pl('picture-galleries', 'picture-gallery', neutr).
 noun_pl('pie-crusts', 'pie-crust', neutr).
 noun_pl('pied-a-terres', 'pied-a-terre', neutr).
-noun_pl('pied-à-terres', 'pied-à-terre', neutr).
 noun_pl('pier-glasses', 'pier-glass', neutr).
 noun_pl('pig-stickings', 'pig-sticking', neutr).
 noun_pl('pile-drivers', 'pile-driver', human).
@@ -30358,7 +30302,6 @@ noun_pl('poor-rates', 'poor-rate', neutr).
 noun_pl('pork-barrels', 'pork-barrel', neutr).
 noun_pl('pork-butchers', 'pork-butcher', human).
 noun_pl('porte-cocheres', 'porte-cochere', neutr).
-noun_pl('porte-cochères', 'porte-cochère', neutr).
 noun_pl('post-chaises', 'post-chaise', neutr).
 noun_pl('post-horses', 'post-horse', neutr).
 noun_pl('post-mortems', 'post-mortem', neutr).
@@ -31039,7 +30982,6 @@ noun_pl('turning-points', 'turning-point', neutr).
 noun_pl('tutti-fruttis', 'tutti-frutti', neutr).
 noun_pl('two-seaters', 'two-seater', neutr).
 noun_pl('two-steps', 'two-step', neutr).
-noun_pl('tête-à-têtes', 'tête-à-tête', neutr).
 noun_pl('up-beats', 'up-beat', neutr).
 noun_pl('user-names', username, neutr).
 noun_pl('vade-mecums', 'vade-mecum', neutr).
@@ -31187,7 +31129,6 @@ noun_pl(abbess, abbess, human).
 noun_pl(abbeys, abbey, neutr).
 noun_pl(abbots, abbot, human).
 noun_pl(abbreviations, abbreviation, neutr).
-noun_pl('abbés', 'abbé', human).
 noun_pl(abdications, abdication, neutr).
 noun_pl(abdomens, abdomen, neutr).
 noun_pl(abductions, abduction, neutr).
@@ -31846,7 +31787,6 @@ noun_pl(artistes, artiste, human).
 noun_pl(artists, artist, human).
 noun_pl(arts, art, neutr).
 noun_pl(arums, arum, neutr).
-noun_pl('arêtes', 'arête', neutr).
 noun_pl(ascendants, ascendant, neutr).
 noun_pl(ascendents, ascendent, neutr).
 noun_pl(ascensions, ascension, neutr).
@@ -31919,7 +31859,6 @@ noun_pl(atoms, atom, neutr).
 noun_pl(atrocities, atrocity, neutr).
 noun_pl(attaches, attache, human).
 noun_pl(attachments, attachment, neutr).
-noun_pl('attachés', 'attaché', human).
 noun_pl(attackers, attacker, human).
 noun_pl(attacks, attack, neutr).
 noun_pl(attainders, attainder, neutr).
@@ -32738,7 +32677,6 @@ noun_pl(brassards, brassard, neutr).
 noun_pl(brasseries, brasserie, neutr).
 noun_pl(brasses, brass, neutr).
 noun_pl(brassieres, brassiere, neutr).
-noun_pl('brassières', 'brassière', neutr).
 noun_pl(brats, brat, human).
 noun_pl(bravados, bravado, neutr).
 noun_pl(braves, brave, human).
@@ -33026,7 +32964,6 @@ noun_pl(cafes, cafe, neutr).
 noun_pl(cafeterias, cafeteria, neutr).
 noun_pl(caff, caff, neutr).
 noun_pl(caftans, caftan, neutr).
-noun_pl('cafés', 'café', neutr).
 noun_pl(cages, cage, neutr).
 noun_pl(cagoules, cagoule, neutr).
 noun_pl(caimans, caiman, neutr).
@@ -33083,7 +33020,6 @@ noun_pl(camshafts, camshaft, neutr).
 noun_pl(canalizations, canalization, neutr).
 noun_pl(canals, canal, neutr).
 noun_pl(canapes, canape, neutr).
-noun_pl('canapés', 'canapé', neutr).
 noun_pl(canards, canard, neutr).
 noun_pl(canaries, canary, neutr).
 noun_pl(canastas, canasta, neutr).
@@ -33422,7 +33358,6 @@ noun_pl(chars, char, neutr).
 noun_pl(charters, charter, neutr).
 noun_pl(charts, chart, neutr).
 noun_pl(charwomen, charwoman, human).
-noun_pl('charàbancs', 'charàbanc', neutr).
 noun_pl(chasers, chaser, human).
 noun_pl(chases, chase, neutr).
 noun_pl(chasms, chasm, neutr).
@@ -33564,7 +33499,6 @@ noun_pl(churls, churl, human).
 noun_pl(churns, churn, neutr).
 noun_pl(chutes, chute, neutr).
 noun_pl(chutneys, chutney, neutr).
-noun_pl('châteaux', 'château', neutr).
 noun_pl(cicadas, cicada, neutr).
 noun_pl(cicalas, cicala, neutr).
 noun_pl(cicatrices, cicatrice, neutr).
@@ -33666,7 +33600,6 @@ noun_pl(clerihews, clerihew, neutr).
 noun_pl(clerks, clerk, human).
 noun_pl(clews, clew, neutr).
 noun_pl(cliches, cliche, neutr).
-noun_pl('clichés', 'cliché', neutr).
 noun_pl(clicks, click, neutr).
 noun_pl(clienteles, clientele, human).
 noun_pl(clients, client, human).
@@ -33905,7 +33838,6 @@ noun_pl(communicants, communicant, human).
 noun_pl(communications, communication, neutr).
 noun_pl(communions, communion, neutr).
 noun_pl(communiques, communique, neutr).
-noun_pl('communiqués', 'communiqué', neutr).
 noun_pl(communists, communist, human).
 noun_pl(communities, community, neutr).
 noun_pl(commutations, commutation, neutr).
@@ -33954,7 +33886,6 @@ noun_pl(compromises, compromise, neutr).
 noun_pl(comptrollers, comptroller, human).
 noun_pl(computations, computation, neutr).
 noun_pl(computers, computer, neutr).
-noun_pl('compères', 'compère', human).
 noun_pl(comrades, comrade, human).
 noun_pl(comradeships, comradeship, neutr).
 noun_pl(concatenations, concatenation, neutr).
@@ -34032,7 +33963,6 @@ noun_pl(conformations, conformation, neutr).
 noun_pl(conformists, conformist, human).
 noun_pl(confreres, confrere, human).
 noun_pl(confrontations, confrontation, neutr).
-noun_pl('confrères', 'confrère', human).
 noun_pl(confutations, confutation, neutr).
 noun_pl(congers, conger, neutr).
 noun_pl(conges, conge, neutr).
@@ -34044,7 +33974,6 @@ noun_pl(congresses, congress, neutr).
 noun_pl(congressmen, congressman, human).
 noun_pl(congresspeople, congresspeople, human).
 noun_pl(congresswomen, congresswoman, human).
-noun_pl('congés', 'congé', neutr).
 noun_pl(conies, coney, neutr).
 noun_pl(conifers, conifer, neutr).
 noun_pl(conjectures, conjecture, neutr).
@@ -34088,7 +34017,6 @@ noun_pl(consolations, consolation, neutr).
 noun_pl(consoles, console, neutr).
 noun_pl(consolidations, consolidation, neutr).
 noun_pl(consommes, consomme, neutr).
-noun_pl('consommés', 'consommé', neutr).
 noun_pl(consonants, consonant, neutr).
 noun_pl(consortia, consortium, neutr).
 noun_pl(consorts, consort, human).
@@ -34298,11 +34226,9 @@ noun_pl(corsets, corset, neutr).
 noun_pl(corslets, corslet, neutr).
 noun_pl(corteges, cortege, neutr).
 noun_pl(cortices, cortex, neutr).
-noun_pl('cortèges', 'cortège', neutr).
 noun_pl(coruscations, coruscation, neutr).
 noun_pl(corvees, corvee, neutr).
 noun_pl(corvettes, corvette, neutr).
-noun_pl('corvées', 'corvée', neutr).
 noun_pl(cos, cos, neutr).
 noun_pl(coshes, cosh, neutr).
 noun_pl(cosies, cosy, neutr).
@@ -34380,7 +34306,6 @@ noun_pl(couplets, couplet, neutr).
 noun_pl(couplings, coupling, neutr).
 noun_pl(coupons, coupon, neutr).
 noun_pl(coups, coup, neutr).
-noun_pl('coupés', 'coupé', neutr).
 noun_pl(courgettes, courgette, neutr).
 noun_pl(couriers, courier, human).
 noun_pl(coursers, courser, human).
@@ -34575,7 +34500,6 @@ noun_pl(cryptograms, cryptogram, neutr).
 noun_pl(crypts, crypt, neutr).
 noun_pl(crystallizations, crystallization, neutr).
 noun_pl(crystals, crystal, neutr).
-noun_pl('crèches', 'crèche', neutr).
 noun_pl(cubbyholes, cubbyhole, neutr).
 noun_pl(cubes, cube, neutr).
 noun_pl(cubicles, cubicle, neutr).
@@ -34634,7 +34558,6 @@ noun_pl(curtains, curtain, neutr).
 noun_pl(curtseys, curtsey, neutr).
 noun_pl(curtsies, curtsy, neutr).
 noun_pl(curves, curve, neutr).
-noun_pl('curés', 'curé', human).
 noun_pl(cushions, cushion, neutr).
 noun_pl(cuspidors, cuspidor, neutr).
 noun_pl(cusps, cusp, neutr).
@@ -35506,11 +35429,6 @@ noun_pl(dynasts, dynast, human).
 noun_pl(dynes, dyne, neutr).
 noun_pl(dyspeptics, dyspeptic, human).
 noun_pl(dystrophies, dystrophy, neutr).
-noun_pl('débutantes', 'débutante', human).
-noun_pl('débuts', 'début', neutr).
-noun_pl('débâcles', 'débâcle', neutr).
-noun_pl('démarches', 'démarche', neutr).
-noun_pl('dénouements', 'dénouement', neutr).
 noun_pl(eagles, eagle, neutr).
 noun_pl(eaglets, eaglet, neutr).
 noun_pl(earaches, earache, neutr).
@@ -35751,7 +35669,6 @@ noun_pl(entrepots, entrepot, neutr).
 noun_pl(entrepreneurs, entrepreneur, human).
 noun_pl(entrepreneurships, entrepreneurship, neutr).
 noun_pl(entries, entry, neutr).
-noun_pl('entrées', 'entrée', neutr).
 noun_pl(enumerations, enumeration, neutr).
 noun_pl(enunciations, enunciation, neutr).
 noun_pl(envelopes, envelope, neutr).
@@ -35974,7 +35891,6 @@ noun_pl(expos, expo, neutr).
 noun_pl(expositions, exposition, neutr).
 noun_pl(expostulations, expostulation, neutr).
 noun_pl(exposures, exposure, neutr).
-noun_pl('exposés', 'exposé', neutr).
 noun_pl(expresses, express, neutr).
 noun_pl(expressionists, expressionist, human).
 noun_pl(expressions, expression, neutr).
@@ -36114,7 +36030,6 @@ noun_pl(favourites, favourite, human).
 noun_pl(favours, favour, neutr).
 noun_pl(fawns, fawn, neutr).
 noun_pl(faxes, fax, neutr).
-noun_pl('façades', 'façade', neutr).
 noun_pl(fealties, fealty, neutr).
 noun_pl(fears, fear, neutr).
 noun_pl(feasts, feast, neutr).
@@ -36181,8 +36096,6 @@ noun_pl(fezes, fez, neutr).
 noun_pl(fezzes, fez, neutr).
 noun_pl(fiancees, fiancee, human).
 noun_pl(fiances, fiance, human).
-noun_pl('fiancées', 'fiancée', human).
-noun_pl('fiancés', 'fiancé', human).
 noun_pl(fiascos, fiasco, neutr).
 noun_pl(fiats, fiat, neutr).
 noun_pl(fibbers, fibber, human).
@@ -36698,8 +36611,6 @@ noun_pl(futures, future, neutr).
 noun_pl(futurists, futurist, human).
 noun_pl(futurities, futurity, neutr).
 noun_pl(fuzes, fuze, neutr).
-noun_pl('fêtes', 'fête', neutr).
-noun_pl('führers', 'führer', human).
 noun_pl(gables, gable, neutr).
 noun_pl(gadabouts, gadabout, human).
 noun_pl(gadflies, gadfly, neutr).
@@ -37228,13 +37139,11 @@ noun_pl(gyps, gyp, neutr).
 noun_pl(gyrations, gyration, neutr).
 noun_pl(gyros, gyro, neutr).
 noun_pl(gyroscopes, gyroscope, neutr).
-noun_pl('gâteaux', 'gâteau', neutr).
 noun_pl(haberdashers, haberdasher, human).
 noun_pl(habitations, habitation, neutr).
 noun_pl(habitats, habitat, neutr).
 noun_pl(habits, habit, neutr).
 noun_pl(habitues, habitue, human).
-noun_pl('habitués', 'habitué', human).
 noun_pl(haciendas, hacienda, neutr).
 noun_pl(hackles, hackles, neutr).
 noun_pl(hackneys, hackney, neutr).
@@ -38053,7 +37962,6 @@ noun_pl(ingatherings, ingathering, neutr).
 noun_pl(ingenues, ingenue, human).
 noun_pl(ingots, ingot, neutr).
 noun_pl(ingredients, ingredient, neutr).
-noun_pl('ingénues', 'ingénue', human).
 noun_pl(inhabitants, inhabitant, human).
 noun_pl(inhalations, inhalation, neutr).
 noun_pl(inhalers, inhaler, neutr).
@@ -38558,7 +38466,6 @@ noun_pl(kronor, krona, neutr).
 noun_pl(kummel, kummel, neutr).
 noun_pl(kuomintangs, kuomintang, neutr).
 noun_pl(kwacha, kwacha, neutr).
-noun_pl('kümmel', 'kümmel', neutr).
 noun_pl(laagers, laager, neutr).
 noun_pl(labels, label, neutr).
 noun_pl(laboratories, laboratory, neutr).
@@ -38607,7 +38514,6 @@ noun_pl(lampposts, lamppost, neutr).
 noun_pl(lampreys, lamprey, neutr).
 noun_pl(lamps, lamp, neutr).
 noun_pl(lampshades, lampshade, neutr).
-noun_pl('lamés', 'lamé', neutr).
 noun_pl(lancers, lancer, human).
 noun_pl(lances, lance, neutr).
 noun_pl(lancets, lancet, neutr).
@@ -39056,7 +38962,6 @@ noun_pl(lycees, lycee, neutr).
 noun_pl(lyceums, lyceum, neutr).
 noun_pl(lychees, lychee, neutr).
 noun_pl(lychgates, lychgate, neutr).
-noun_pl('lycées', 'lycée', neutr).
 noun_pl(lyes, lye, neutr).
 noun_pl(lynches, lynch, neutr).
 noun_pl(lynchpins, lynchpin, neutr).
@@ -39306,7 +39211,6 @@ noun_pl(materials, material, neutr).
 noun_pl(mates, mate, human).
 noun_pl(mathematicians, mathematician, human).
 noun_pl(matinees, matinee, neutr).
-noun_pl('matinées', 'matinée', neutr).
 noun_pl(matriarchies, matriarchy, neutr).
 noun_pl(matriarchs, matriarch, human).
 noun_pl(matrices, matrix, neutr).
@@ -39936,11 +39840,6 @@ noun_pl(mystiques, mystique, neutr).
 noun_pl(mythologies, mythology, neutr).
 noun_pl(mythologists, mythologist, human).
 noun_pl(myths, myth, neutr).
-noun_pl('mélanges', 'mélange', neutr).
-noun_pl('ménages', 'ménage', neutr).
-noun_pl('mésalliances', 'mésalliance', neutr).
-noun_pl('métiers', 'métier', neutr).
-noun_pl('mêlées', 'mêlée', neutr).
 noun_pl(nabobs, nabob, human).
 noun_pl(nacelles, nacelle, neutr).
 noun_pl(nadirs, nadir, neutr).
@@ -40210,7 +40109,6 @@ noun_pl(nymphets, nymphet, human).
 noun_pl(nymphomaniacs, nymphomaniac, human).
 noun_pl(nymphos, nympho, human).
 noun_pl(nymphs, nymph, human).
-noun_pl('négligés', 'négligé', neutr).
 noun_pl(oafs, oaf, human).
 noun_pl(oaks, oak, neutr).
 noun_pl(oars, oar, neutr).
@@ -41403,7 +41301,6 @@ noun_pl(portholes, porthole, neutr).
 noun_pl(porticos, portico, neutr).
 noun_pl(portieres, portiere, neutr).
 noun_pl(portions, portion, neutr).
-noun_pl('portières', 'portière', neutr).
 noun_pl(portmanteaus, portmanteau, neutr).
 noun_pl(portraitists, portraitist, human).
 noun_pl(portraits, portrait, neutr).
@@ -41555,7 +41452,6 @@ noun_pl(premierships, premiership, neutr).
 noun_pl(premises, premise, neutr).
 noun_pl(premisses, premiss, neutr).
 noun_pl(premiums, premium, neutr).
-noun_pl('premières', 'première', neutr).
 noun_pl(premonitions, premonition, neutr).
 noun_pl(prentices, prentice, human).
 noun_pl(preoccupations, preoccupation, neutr).
@@ -41789,8 +41685,6 @@ noun_pl(protractions, protraction, neutr).
 noun_pl(protractors, protractor, neutr).
 noun_pl(protrusions, protrusion, neutr).
 noun_pl(protuberances, protuberance, neutr).
-noun_pl('protégées', 'protégée', human).
-noun_pl('protégés', 'protégé', human).
 noun_pl(provenances, provenance, neutr).
 noun_pl(proverbs, proverb, neutr).
 noun_pl(providers, provider, human).
@@ -41808,7 +41702,6 @@ noun_pl(proxies, proxy, neutr).
 noun_pl(pruderies, prudery, neutr).
 noun_pl(prudes, prude, human).
 noun_pl(prunes, prune, neutr).
-noun_pl('précis', 'précis', neutr).
 noun_pl(psalmists, psalmist, human).
 noun_pl(psalmodies, psalmody, neutr).
 noun_pl(psalms, psalm, neutr).
@@ -41910,7 +41803,6 @@ noun_pl(pursuits, pursuit, neutr).
 noun_pl(purveyances, purveyance, neutr).
 noun_pl(purveyors, purveyor, human).
 noun_pl(purviews, purview, neutr).
-noun_pl('purées', 'purée', neutr).
 noun_pl(pushcarts, pushcart, neutr).
 noun_pl(pushchairs, pushchair, neutr).
 noun_pl(pushers, pusher, human).
@@ -41936,7 +41828,6 @@ noun_pl(pyramids, pyramid, neutr).
 noun_pl(pyres, pyre, neutr).
 noun_pl(pythons, python, neutr).
 noun_pl(pyxes, pyx, neutr).
-noun_pl('pâtés', 'pâté', neutr).
 noun_pl(quacks, quack, human).
 noun_pl(quadrangles, quadrangle, neutr).
 noun_pl(quadrants, quadrant, neutr).
@@ -42764,7 +42655,6 @@ noun_pl(routemarches, routemarch, neutr).
 noun_pl(routes, route, neutr).
 noun_pl(routines, routine, neutr).
 noun_pl(routs, rout, neutr).
-noun_pl('roués', 'roué', human).
 noun_pl(rovers, rover, human).
 noun_pl(rowans, rowan, neutr).
 noun_pl(rowboats, rowboat, neutr).
@@ -42825,10 +42715,6 @@ noun_pl(rustics, rustic, human).
 noun_pl(rustlers, rustler, human).
 noun_pl(rustlings, rustling, neutr).
 noun_pl(ruts, rut, neutr).
-noun_pl('réchauffés', 'réchauffé', neutr).
-noun_pl('régimes', 'régime', human).
-noun_pl('résumés', 'résumé', neutr).
-noun_pl('rôles', 'rôle', neutr).
 noun_pl(sabbatarians, sabbatarian, human).
 noun_pl(sabbaticals, sabbatical, neutr).
 noun_pl(sabers, saber, neutr).
@@ -43790,7 +43676,6 @@ noun_pl(softies, softie, human).
 noun_pl(softwoods, softwood, neutr).
 noun_pl(soils, soil, neutr).
 noun_pl(soirees, soiree, neutr).
-noun_pl('soirées', 'soirée', neutr).
 noun_pl(sojourners, sojourner, human).
 noun_pl(sojourns, sojourn, neutr).
 noun_pl(solaria, solarium, neutr).
@@ -43850,7 +43735,6 @@ noun_pl(sots, sot, human).
 noun_pl(soubrettes, soubrette, human).
 noun_pl(soubriquets, soubriquet, neutr).
 noun_pl(souffles, souffle, neutr).
-noun_pl('soufflés', 'soufflé', neutr).
 noun_pl(souls, soul, neutr).
 noun_pl(soundboxes, soundbox, neutr).
 noun_pl(soundings, soundings, neutr).
@@ -44674,7 +44558,6 @@ noun_pl(syringas, syringa, neutr).
 noun_pl(syringes, syringe, neutr).
 noun_pl(syrups, syrup, neutr).
 noun_pl(systems, system, neutr).
-noun_pl('séances', 'séance', neutr).
 noun_pl(tabards, tabard, neutr).
 noun_pl(tabbies, tabby, neutr).
 noun_pl(tabernacles, tabernacle, neutr).
@@ -46470,7 +46353,6 @@ noun_sg('age-group', 'age-group', neutr).
 noun_sg('agent-provocateur', 'agent-provocateur', human).
 noun_sg('aide-de-camp', 'aide-de-camp', human).
 noun_sg('aide-memoire', 'aide-memoire', neutr).
-noun_sg('aide-mémoire', 'aide-mémoire', neutr).
 noun_sg('air-bladder', 'air-bladder', neutr).
 noun_sg('air-pump', 'air-pump', neutr).
 noun_sg('air-raid', 'air-raid', neutr).
@@ -46497,7 +46379,6 @@ noun_sg('armour-plate', 'armour-plate', neutr).
 noun_sg('arms-race', 'arms-race', neutr).
 noun_sg('arms-runner', 'arms-runner', human).
 noun_sg('arriere-pensee', 'arriere-pensee', neutr).
-noun_sg('arrière-pensée', 'arrière-pensée', neutr).
 noun_sg('art-nouveau', 'art-nouveau', neutr).
 noun_sg('ash-bin', 'ash-bin', neutr).
 noun_sg('ash-can', 'ash-can', neutr).
@@ -46507,7 +46388,6 @@ noun_sg('at-home', 'at-home', neutr).
 noun_sg('au-pair', 'au-pair', human).
 noun_sg('auto-changer', 'auto-changer', neutr).
 noun_sg('auto-da-fe', 'auto-da-fe', neutr).
-noun_sg('auto-da-fé', 'auto-da-fé', neutr).
 noun_sg('automated-teller-machine', 'automatic-teller', neutr).
 noun_sg('automated-teller', 'automatic-teller', neutr).
 noun_sg('automatic-teller-machine', 'automatic-teller', neutr).
@@ -46666,7 +46546,6 @@ noun_sg('bust-up', 'bust-up', neutr).
 noun_sg('by-election', 'by-election', neutr).
 noun_sg('bye-bye', 'bye-bye', neutr).
 noun_sg('bye-law', 'bye-law', neutr).
-noun_sg('bête-noire', 'bête-noire', neutr).
 noun_sg('cab-rank', 'cab-rank', neutr).
 noun_sg('cabinet-maker', 'cabinet-maker', human).
 noun_sg('cable-car', 'cable-car', neutr).
@@ -47477,7 +47356,6 @@ noun_sg('minute-gun', 'minute-gun', neutr).
 noun_sg('minute-hand', 'minute-hand', neutr).
 noun_sg('mischief-maker', 'mischief-maker', human).
 noun_sg('mise-en-scene', 'mise-en-scene', neutr).
-noun_sg('mise-en-scène', 'mise-en-scène', neutr).
 noun_sg('mitre-joint', 'mitre-joint', neutr).
 noun_sg('mix-up', 'mix-up', neutr).
 noun_sg('mizzen-mast', 'mizzen-mast', neutr).
@@ -47601,7 +47479,6 @@ noun_sg('paddy-field', 'paddy-field', neutr).
 noun_sg('palette-knife', 'palette-knife', neutr).
 noun_sg('paper-chase', 'paper-chase', neutr).
 noun_sg('papier-mache', 'papier-mache', neutr).
-noun_sg('papier-mâché', 'papier-mâché', neutr).
 noun_sg('parade-ground', 'parade-ground', neutr).
 noun_sg('pari-mutuel', 'pari-mutuel', neutr).
 noun_sg('pariah-dog', 'pariah-dog', neutr).
@@ -47656,7 +47533,6 @@ noun_sg('picture-card', 'picture-card', neutr).
 noun_sg('picture-gallery', 'picture-gallery', neutr).
 noun_sg('pie-crust', 'pie-crust', neutr).
 noun_sg('pied-a-terre', 'pied-a-terre', neutr).
-noun_sg('pied-à-terre', 'pied-à-terre', neutr).
 noun_sg('pier-glass', 'pier-glass', neutr).
 noun_sg('pig-sticking', 'pig-sticking', neutr).
 noun_sg('pile-driver', 'pile-driver', human).
@@ -47717,7 +47593,6 @@ noun_sg('poor-rate', 'poor-rate', neutr).
 noun_sg('pork-barrel', 'pork-barrel', neutr).
 noun_sg('pork-butcher', 'pork-butcher', human).
 noun_sg('porte-cochere', 'porte-cochere', neutr).
-noun_sg('porte-cochère', 'porte-cochère', neutr).
 noun_sg('post-chaise', 'post-chaise', neutr).
 noun_sg('post-horse', 'post-horse', neutr).
 noun_sg('post-mortem', 'post-mortem', neutr).
@@ -48415,7 +48290,6 @@ noun_sg('tutti-frutti', 'tutti-frutti', neutr).
 noun_sg('two-piece', 'two-piece', neutr).
 noun_sg('two-seater', 'two-seater', neutr).
 noun_sg('two-step', 'two-step', neutr).
-noun_sg('tête-à-tête', 'tête-à-tête', neutr).
 noun_sg('up-beat', 'up-beat', neutr).
 noun_sg('user-name', username, neutr).
 noun_sg('vade-mecum', 'vade-mecum', neutr).
@@ -48566,7 +48440,6 @@ noun_sg(abbess, abbess, human).
 noun_sg(abbey, abbey, neutr).
 noun_sg(abbot, abbot, human).
 noun_sg(abbreviation, abbreviation, neutr).
-noun_sg('abbé', 'abbé', human).
 noun_sg(abdication, abdication, neutr).
 noun_sg(abdomen, abdomen, neutr).
 noun_sg(abduction, abduction, neutr).
@@ -49223,7 +49096,6 @@ noun_sg(artisan, artisan, human).
 noun_sg(artist, artist, human).
 noun_sg(artiste, artiste, human).
 noun_sg(arum, arum, neutr).
-noun_sg('arête', 'arête', neutr).
 noun_sg(ascendant, ascendant, neutr).
 noun_sg(ascendent, ascendent, neutr).
 noun_sg(ascension, ascension, neutr).
@@ -49296,7 +49168,6 @@ noun_sg(atomizer, atomizer, neutr).
 noun_sg(atrocity, atrocity, neutr).
 noun_sg(attache, attache, human).
 noun_sg(attachment, attachment, neutr).
-noun_sg('attaché', 'attaché', human).
 noun_sg(attack, attack, neutr).
 noun_sg(attacker, attacker, human).
 noun_sg(attainder, attainder, neutr).
@@ -50120,7 +49991,6 @@ noun_sg(brass, brass, neutr).
 noun_sg(brassard, brassard, neutr).
 noun_sg(brasserie, brasserie, neutr).
 noun_sg(brassiere, brassiere, neutr).
-noun_sg('brassière', 'brassière', neutr).
 noun_sg(brat, brat, human).
 noun_sg(bravado, bravado, neutr).
 noun_sg(brave, brave, human).
@@ -50408,7 +50278,6 @@ noun_sg(cafe, cafe, neutr).
 noun_sg(cafeteria, cafeteria, neutr).
 noun_sg(caff, caff, neutr).
 noun_sg(caftan, caftan, neutr).
-noun_sg('café', 'café', neutr).
 noun_sg(cage, cage, neutr).
 noun_sg(cagoule, cagoule, neutr).
 noun_sg(caiman, caiman, neutr).
@@ -50464,7 +50333,6 @@ noun_sg(can, can, neutr).
 noun_sg(canal, canal, neutr).
 noun_sg(canalization, canalization, neutr).
 noun_sg(canape, canape, neutr).
-noun_sg('canapé', 'canapé', neutr).
 noun_sg(canard, canard, neutr).
 noun_sg(canary, canary, neutr).
 noun_sg(canasta, canasta, neutr).
@@ -50802,7 +50670,6 @@ noun_sg(charmer, charmer, human).
 noun_sg(chart, chart, neutr).
 noun_sg(charter, charter, neutr).
 noun_sg(charwoman, charwoman, human).
-noun_sg('charàbanc', 'charàbanc', neutr).
 noun_sg(chase, chase, neutr).
 noun_sg(chaser, chaser, human).
 noun_sg(chasm, chasm, neutr).
@@ -50946,7 +50813,6 @@ noun_sg(churl, churl, human).
 noun_sg(churn, churn, neutr).
 noun_sg(chute, chute, neutr).
 noun_sg(chutney, chutney, neutr).
-noun_sg('château', 'château', neutr).
 noun_sg(cicada, cicada, neutr).
 noun_sg(cicala, cicala, neutr).
 noun_sg(cicatrice, cicatrice, neutr).
@@ -51053,7 +50919,6 @@ noun_sg(clerihew, clerihew, neutr).
 noun_sg(clerk, clerk, human).
 noun_sg(clew, clew, neutr).
 noun_sg(cliche, cliche, neutr).
-noun_sg('cliché', 'cliché', neutr).
 noun_sg(click, click, neutr).
 noun_sg(client, client, human).
 noun_sg(clientele, clientele, human).
@@ -51291,7 +51156,6 @@ noun_sg(communicant, communicant, human).
 noun_sg(communication, communication, neutr).
 noun_sg(communion, communion, neutr).
 noun_sg(communique, communique, neutr).
-noun_sg('communiqué', 'communiqué', neutr).
 noun_sg(communist, communist, human).
 noun_sg(community, community, neutr).
 noun_sg(commutation, commutation, neutr).
@@ -51340,7 +51204,6 @@ noun_sg(compromise, compromise, neutr).
 noun_sg(comptroller, comptroller, human).
 noun_sg(computation, computation, neutr).
 noun_sg(computer, computer, neutr).
-noun_sg('compère', 'compère', human).
 noun_sg(comrade, comrade, human).
 noun_sg(comradeship, comradeship, neutr).
 noun_sg(con, con, human).
@@ -51419,7 +51282,6 @@ noun_sg(conformation, conformation, neutr).
 noun_sg(conformist, conformist, human).
 noun_sg(confrere, confrere, human).
 noun_sg(confrontation, confrontation, neutr).
-noun_sg('confrère', 'confrère', human).
 noun_sg(confutation, confutation, neutr).
 noun_sg(conge, conge, neutr).
 noun_sg(conger, conger, neutr).
@@ -51431,7 +51293,6 @@ noun_sg(congress, congress, neutr).
 noun_sg(congressman, congressman, human).
 noun_sg(congresspeople, congresspeople, human).
 noun_sg(congresswoman, congresswoman, human).
-noun_sg('congé', 'congé', neutr).
 noun_sg(conifer, conifer, neutr).
 noun_sg(conjecture, conjecture, neutr).
 noun_sg(conjugation, conjugation, neutr).
@@ -51473,7 +51334,6 @@ noun_sg(consolation, consolation, neutr).
 noun_sg(console, console, neutr).
 noun_sg(consolidation, consolidation, neutr).
 noun_sg(consomme, consomme, neutr).
-noun_sg('consommé', 'consommé', neutr).
 noun_sg(consonant, consonant, neutr).
 noun_sg(consort, consort, human).
 noun_sg(consortium, consortium, neutr).
@@ -51686,11 +51546,9 @@ noun_sg(corset, corset, neutr).
 noun_sg(corslet, corslet, neutr).
 noun_sg(cortege, cortege, neutr).
 noun_sg(cortex, cortex, neutr).
-noun_sg('cortège', 'cortège', neutr).
 noun_sg(coruscation, coruscation, neutr).
 noun_sg(corvee, corvee, neutr).
 noun_sg(corvette, corvette, neutr).
-noun_sg('corvée', 'corvée', neutr).
 noun_sg(cos, cos, neutr).
 noun_sg(cosh, cosh, neutr).
 noun_sg(cosignatory, cosignatory, human).
@@ -51770,7 +51628,6 @@ noun_sg(couple, couple, human).
 noun_sg(couplet, couplet, neutr).
 noun_sg(coupling, coupling, neutr).
 noun_sg(coupon, coupon, neutr).
-noun_sg('coupé', 'coupé', neutr).
 noun_sg(courgette, courgette, neutr).
 noun_sg(courier, courier, human).
 noun_sg(course, course, neutr).
@@ -51965,7 +51822,6 @@ noun_sg(crypt, crypt, neutr).
 noun_sg(cryptogram, cryptogram, neutr).
 noun_sg(crystal, crystal, neutr).
 noun_sg(crystallization, crystallization, neutr).
-noun_sg('crèche', 'crèche', neutr).
 noun_sg(cub, cub, human).
 noun_sg(cubbyhole, cubbyhole, neutr).
 noun_sg(cube, cube, neutr).
@@ -52023,7 +51879,6 @@ noun_sg(curtain, curtain, neutr).
 noun_sg(curtsey, curtsey, neutr).
 noun_sg(curtsy, curtsy, neutr).
 noun_sg(curve, curve, neutr).
-noun_sg('curé', 'curé', human).
 noun_sg(cushion, cushion, neutr).
 noun_sg(cusp, cusp, neutr).
 noun_sg(cuspidor, cuspidor, neutr).
@@ -52905,11 +52760,6 @@ noun_sg(dynasty, dynasty, neutr).
 noun_sg(dyne, dyne, neutr).
 noun_sg(dyspeptic, dyspeptic, human).
 noun_sg(dystrophy, dystrophy, neutr).
-noun_sg('début', 'début', neutr).
-noun_sg('débutante', 'débutante', human).
-noun_sg('débâcle', 'débâcle', neutr).
-noun_sg('démarche', 'démarche', neutr).
-noun_sg('dénouement', 'dénouement', neutr).
 noun_sg(eagle, eagle, neutr).
 noun_sg(eaglet, eaglet, neutr).
 noun_sg(ear, ear, neutr).
@@ -53152,7 +53002,6 @@ noun_sg(entrepot, entrepot, neutr).
 noun_sg(entrepreneur, entrepreneur, human).
 noun_sg(entrepreneurship, entrepreneurship, neutr).
 noun_sg(entry, entry, neutr).
-noun_sg('entrée', 'entrée', neutr).
 noun_sg(enumeration, enumeration, neutr).
 noun_sg(enunciation, enunciation, neutr).
 noun_sg(envelope, envelope, neutr).
@@ -53377,7 +53226,6 @@ noun_sg(exporter, exporter, human).
 noun_sg(exposition, exposition, neutr).
 noun_sg(expostulation, expostulation, neutr).
 noun_sg(exposure, exposure, neutr).
-noun_sg('exposé', 'exposé', neutr).
 noun_sg(express, express, neutr).
 noun_sg(expression, expression, neutr).
 noun_sg(expressionist, expressionist, human).
@@ -53520,7 +53368,6 @@ noun_sg(favour, favour, neutr).
 noun_sg(favourite, favourite, human).
 noun_sg(fawn, fawn, neutr).
 noun_sg(fax, fax, neutr).
-noun_sg('façade', 'façade', neutr).
 noun_sg(fealty, fealty, neutr).
 noun_sg(fear, fear, neutr).
 noun_sg(feast, feast, neutr).
@@ -53584,8 +53431,6 @@ noun_sg(few, few, neutr).
 noun_sg(fez, fez, neutr).
 noun_sg(fiance, fiance, human).
 noun_sg(fiancee, fiancee, human).
-noun_sg('fiancé', 'fiancé', human).
-noun_sg('fiancée', 'fiancée', human).
 noun_sg(fiasco, fiasco, neutr).
 noun_sg(fiat, fiat, neutr).
 noun_sg(fib, fib, neutr).
@@ -54096,8 +53941,6 @@ noun_sg(future, future, neutr).
 noun_sg(futurist, futurist, human).
 noun_sg(futurity, futurity, neutr).
 noun_sg(fuze, fuze, neutr).
-noun_sg('fête', 'fête', neutr).
-noun_sg('führer', 'führer', human).
 noun_sg(gable, gable, neutr).
 noun_sg(gadabout, gadabout, human).
 noun_sg(gadfly, gadfly, neutr).
@@ -54623,13 +54466,11 @@ noun_sg(gyp, gyp, neutr).
 noun_sg(gyration, gyration, neutr).
 noun_sg(gyro, gyro, neutr).
 noun_sg(gyroscope, gyroscope, neutr).
-noun_sg('gâteau', 'gâteau', neutr).
 noun_sg(haberdasher, haberdasher, human).
 noun_sg(habit, habit, neutr).
 noun_sg(habitat, habitat, neutr).
 noun_sg(habitation, habitation, neutr).
 noun_sg(habitue, habitue, human).
-noun_sg('habitué', 'habitué', human).
 noun_sg(hacienda, hacienda, neutr).
 noun_sg(hack, hack, human).
 noun_sg(hackney, hackney, neutr).
@@ -55448,7 +55289,6 @@ noun_sg(ingathering, ingathering, neutr).
 noun_sg(ingenue, ingenue, human).
 noun_sg(ingot, ingot, neutr).
 noun_sg(ingredient, ingredient, neutr).
-noun_sg('ingénue', 'ingénue', human).
 noun_sg(inhabitant, inhabitant, human).
 noun_sg(inhalation, inhalation, neutr).
 noun_sg(inhaler, inhaler, neutr).
@@ -55958,7 +55798,6 @@ noun_sg(krone, krone, neutr).
 noun_sg(kummel, kummel, neutr).
 noun_sg(kuomintang, kuomintang, neutr).
 noun_sg(kwacha, kwacha, neutr).
-noun_sg('kümmel', 'kümmel', neutr).
 noun_sg(laager, laager, neutr).
 noun_sg(lab, lab, neutr).
 noun_sg(label, label, neutr).
@@ -56007,7 +55846,6 @@ noun_sg(lampoon, lampoon, neutr).
 noun_sg(lamppost, lamppost, neutr).
 noun_sg(lamprey, lamprey, neutr).
 noun_sg(lampshade, lampshade, neutr).
-noun_sg('lamé', 'lamé', neutr).
 noun_sg(lance, lance, neutr).
 noun_sg(lancer, lancer, human).
 noun_sg(lancet, lancet, neutr).
@@ -56468,7 +56306,6 @@ noun_sg(lycee, lycee, neutr).
 noun_sg(lyceum, lyceum, neutr).
 noun_sg(lychee, lychee, neutr).
 noun_sg(lychgate, lychgate, neutr).
-noun_sg('lycée', 'lycée', neutr).
 noun_sg(lye, lye, neutr).
 noun_sg(lynch, lynch, neutr).
 noun_sg(lynchpin, lynchpin, neutr).
@@ -56721,7 +56558,6 @@ noun_sg(materialist, materialist, human).
 noun_sg(materialization, materialization, neutr).
 noun_sg(mathematician, mathematician, human).
 noun_sg(matinee, matinee, neutr).
-noun_sg('matinée', 'matinée', neutr).
 noun_sg(matriarch, matriarch, human).
 noun_sg(matriarchy, matriarchy, neutr).
 noun_sg(matric, matric, neutr).
@@ -57357,11 +57193,6 @@ noun_sg(mystique, mystique, neutr).
 noun_sg(myth, myth, neutr).
 noun_sg(mythologist, mythologist, human).
 noun_sg(mythology, mythology, neutr).
-noun_sg('mélange', 'mélange', neutr).
-noun_sg('ménage', 'ménage', neutr).
-noun_sg('mésalliance', 'mésalliance', neutr).
-noun_sg('métier', 'métier', neutr).
-noun_sg('mêlée', 'mêlée', neutr).
 noun_sg(nabob, nabob, human).
 noun_sg(nacelle, nacelle, neutr).
 noun_sg(nadir, nadir, neutr).
@@ -57626,7 +57457,6 @@ noun_sg(nymph, nymph, human).
 noun_sg(nymphet, nymphet, human).
 noun_sg(nympho, nympho, human).
 noun_sg(nymphomaniac, nymphomaniac, human).
-noun_sg('négligé', 'négligé', neutr).
 noun_sg(oaf, oaf, human).
 noun_sg(oak, oak, neutr).
 noun_sg(oar, oar, neutr).
@@ -58826,7 +58656,6 @@ noun_sg(porthole, porthole, neutr).
 noun_sg(portico, portico, neutr).
 noun_sg(portiere, portiere, neutr).
 noun_sg(portion, portion, neutr).
-noun_sg('portière', 'portière', neutr).
 noun_sg(portmanteau, portmanteau, neutr).
 noun_sg(portrait, portrait, neutr).
 noun_sg(portraitist, portraitist, human).
@@ -58978,7 +58807,6 @@ noun_sg(premiership, premiership, neutr).
 noun_sg(premise, premise, neutr).
 noun_sg(premiss, premiss, neutr).
 noun_sg(premium, premium, neutr).
-noun_sg('première', 'première', neutr).
 noun_sg(premonition, premonition, neutr).
 noun_sg(prentice, prentice, human).
 noun_sg(preoccupation, preoccupation, neutr).
@@ -59210,8 +59038,6 @@ noun_sg(protraction, protraction, neutr).
 noun_sg(protractor, protractor, neutr).
 noun_sg(protrusion, protrusion, neutr).
 noun_sg(protuberance, protuberance, neutr).
-noun_sg('protégé', 'protégé', human).
-noun_sg('protégée', 'protégée', human).
 noun_sg(provenance, provenance, neutr).
 noun_sg(proverb, proverb, neutr).
 noun_sg(provider, provider, human).
@@ -59229,7 +59055,6 @@ noun_sg(proxy, proxy, neutr).
 noun_sg(prude, prude, human).
 noun_sg(prudery, prudery, neutr).
 noun_sg(prune, prune, neutr).
-noun_sg('précis', 'précis', neutr).
 noun_sg(psalm, psalm, neutr).
 noun_sg(psalmist, psalmist, human).
 noun_sg(psalmody, psalmody, neutr).
@@ -59331,7 +59156,6 @@ noun_sg(pursuit, pursuit, neutr).
 noun_sg(purveyance, purveyance, neutr).
 noun_sg(purveyor, purveyor, human).
 noun_sg(purview, purview, neutr).
-noun_sg('purée', 'purée', neutr).
 noun_sg(push, push, neutr).
 noun_sg(pushcart, pushcart, neutr).
 noun_sg(pushchair, pushchair, neutr).
@@ -59356,7 +59180,6 @@ noun_sg(pyramid, pyramid, neutr).
 noun_sg(pyre, pyre, neutr).
 noun_sg(python, python, neutr).
 noun_sg(pyx, pyx, neutr).
-noun_sg('pâté', 'pâté', neutr).
 noun_sg(quack, quack, human).
 noun_sg(quad, quad, neutr).
 noun_sg(quadrangle, quadrangle, neutr).
@@ -60192,7 +60015,6 @@ noun_sg(rout, rout, neutr).
 noun_sg(route, route, neutr).
 noun_sg(routemarch, routemarch, neutr).
 noun_sg(routine, routine, neutr).
-noun_sg('roué', 'roué', human).
 noun_sg(rover, rover, human).
 noun_sg(row, row, neutr).
 noun_sg(rowan, rowan, neutr).
@@ -60256,10 +60078,6 @@ noun_sg(rustle, rustle, neutr).
 noun_sg(rustler, rustler, human).
 noun_sg(rustling, rustling, neutr).
 noun_sg(rut, rut, neutr).
-noun_sg('réchauffé', 'réchauffé', neutr).
-noun_sg('régime', 'régime', human).
-noun_sg('résumé', 'résumé', neutr).
-noun_sg('rôle', 'rôle', neutr).
 noun_sg(sabbatarian, sabbatarian, human).
 noun_sg(sabbatical, sabbatical, neutr).
 noun_sg(saber, saber, neutr).
@@ -61219,7 +61037,6 @@ noun_sg(softwood, softwood, neutr).
 noun_sg(softy, softie, human).
 noun_sg(soil, soil, neutr).
 noun_sg(soiree, soiree, neutr).
-noun_sg('soirée', 'soirée', neutr).
 noun_sg(sojourn, sojourn, neutr).
 noun_sg(sojourner, sojourner, human).
 noun_sg(solarium, solarium, neutr).
@@ -61278,14 +61095,12 @@ noun_sg(sou, sou, neutr).
 noun_sg(soubrette, soubrette, human).
 noun_sg(soubriquet, soubriquet, neutr).
 noun_sg(souffle, souffle, neutr).
-noun_sg('soufflé', 'soufflé', neutr).
 noun_sg(soul, soul, neutr).
 noun_sg(sound, sound, neutr).
 noun_sg(soundbox, soundbox, neutr).
 noun_sg(soundtrack, soundtrack, neutr).
 noun_sg(soup, soup, neutr).
 noun_sg(soupcon, soupcon, neutr).
-noun_sg('soupçon', 'soupçon', neutr).
 noun_sg(source, source, neutr).
 noun_sg(soutane, soutane, neutr).
 noun_sg(southeaster, southeaster, neutr).
@@ -62104,7 +61919,6 @@ noun_sg(syringa, syringa, neutr).
 noun_sg(syringe, syringe, neutr).
 noun_sg(syrup, syrup, neutr).
 noun_sg(system, system, neutr).
-noun_sg('séance', 'séance', neutr).
 noun_sg(tab, tab, neutr).
 noun_sg(tabard, tabard, neutr).
 noun_sg(tabby, tabby, neutr).
@@ -75645,7 +75459,6 @@ tv_finsg(appends, append).
 tv_finsg(applauds, applaud).
 tv_finsg(applies, apply).
 tv_finsg(appliques, applique).
-tv_finsg('appliqués', 'appliqué').
 tv_finsg(appoints, appoint).
 tv_finsg(apportions, apportion).
 tv_finsg(appraises, appraise).
@@ -87230,7 +87043,6 @@ tv_infpl(appease, appease).
 tv_infpl(append, append).
 tv_infpl(applaud, applaud).
 tv_infpl(applique, applique).
-tv_infpl('appliqué', 'appliqué').
 tv_infpl(apply, apply).
 tv_infpl(appoint, appoint).
 tv_infpl(apportion, apportion).
@@ -91723,8 +91535,6 @@ pn_sg('Attempto', 'Attempto', neutr).
 pn_pl('Attemptos', 'Attempto', neutr).
 pn_sg('DRACE', 'DRACE', neutr).
 pn_pl('DRACEs', 'DRACE', neutr).
-pn_sg('François', 'François', masc).
-pn_sg('Francois', 'François', masc).
 pn_sg('Kaarel', 'Kaarel', masc).
 pn_sg('Norbert', 'Norbert', masc).
 pn_sg('OWL', 'OWL', neutr).
